@@ -1,13 +1,15 @@
-#btn1 {
+#btnl {
     padding: 10px;
     border-radius: 30px;
     background-color: lime;
+    cursor: pointer;
 }
 
 #btnr {
     padding: 10px;
     border-radius: 30px;
     background-color: lime;
+    cursor: pointer;
 }
 
 img {
